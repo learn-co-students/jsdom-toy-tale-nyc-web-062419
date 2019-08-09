@@ -4,31 +4,31 @@
       "id": 1,
       "name": "Woody",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
-      "likes": 5
+      "likes": 21
     },
     {
       "id": 2,
       "name": "Buzz Lightyear",
       "image": "http://www.pngmart.com/files/6/Buzz-Lightyear-PNG-Transparent-Picture.png",
-      "likes": 8
+      "likes": 14
     },
     {
       "id": 3,
       "name": "Mr. Potato Head",
       "image": "https://vignette.wikia.nocookie.net/universe-of-smash-bros-lawl/images/d/d8/Mr-potato-head-toy-story.gif/revision/latest?cb=20151129131217",
-      "likes": 3
+      "likes": 17
     },
     {
       "id": 4,
       "name": "Slinky Dog",
       "image": "https://www.freeiconspng.com/uploads/slinky-png-transparent-1.png",
-      "likes": 4
+      "likes": 14
     },
     {
       "id": 5,
       "name": "Rex",
       "image": "http://umich.edu/~chemh215/W11HTML/SSG5/ssg5.2/FRex.png",
-      "likes": 1
+      "likes": 23
     },
     {
       "id": 6,
@@ -47,6 +47,30 @@
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
       "likes": -2
+    },
+    {
+      "name": "Big Bob",
+      "image": "https://cdn.pixabay.com/photo/2016/04/20/21/17/png-1342113__340.png",
+      "likes": 0,
+      "id": 9
+    },
+    {
+      "name": "Derp",
+      "image": "https://i.ytimg.com/vi/mRf3-JkwqfU/hqdefault.jpg",
+      "likes": 0,
+      "id": 10
+    },
+    {
+      "name": "Burp",
+      "image": "https://3milliondogs.com/blog-assets-two/2015/03/sweet-happy-puppy.jpg",
+      "likes": 0,
+      "id": 11
+    },
+    {
+      "name": "lil poopie",
+      "image": "https://www.wikihow.com/images/thumb/3/3e/Make-a-Puppy-Happy-Step-11-Version-3.jpg/aid4787604-v4-728px-Make-a-Puppy-Happy-Step-11-Version-3.jpg",
+      "likes": 0,
+      "id": 12
     }
   ]
 }
